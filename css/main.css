@@ -1,0 +1,93 @@
+ .grupal{
+ 	 background: url('../img/grupal.jpg') no-repeat;
+	 height: 676px;
+	 width: 100%;
+	 background-size:cover;
+	 padding-top: 30px;
+	 margin: 0px;
+ }
+ .logo{
+ 	margin-bottom: 60px;
+}
+.sumate{
+	font-size: 14px;
+	font-family:sans-serif;
+}
+
+ .labo{
+ 	height: 40px;
+ 	width: 300px;
+ 	position: relative;
+ 	left: 60px;
+ }
+ nav{    
+	position: relative;
+	top: 25px;
+	font-size: 14px;
+	text-align: center;
+ }
+ ul li {
+	display: inline-block;
+	position: relative;
+	margin: 13px;
+	
+}
+.ban{
+	text-decoration: none;
+	color: black;
+}
+ .caja{
+ 	background-color: orange;
+ 	height: 60px;
+ 	width: 60px;
+ 	position: relative;
+ 	top: 30px;
+}
+ h3{
+ 	padding-top: 10px;
+ 	text-align: center;
+ }
+ .grupal1{
+ 	margin-top: 60px;
+ 	margin-left: 130px;
+ 	margin-bottom: 10px;
+ }
+ .grupal1 img{
+ 	height: 150px;
+ 	width: 230px;
+ 	position: relative;
+ }
+ .gray{
+ 	height: 80px;
+ 	background-color: #323230;
+ 	clear: both;
+ 	margin-top: 50px;
+ }
+ .final{
+ 	color: white;
+ 	font-weight: bold;
+ 	font-family: Arial;
+ 	font-size: 14px;
+ 	position: relative;
+ 	left: 115px;
+ 	top: 30px;
+ }
+ .tel{
+ 	color: #09AFFD;
+ 	
+ }
+ .fa{
+ 	color: #09AFFD;
+ 	background: white;
+ }
+ .top{
+ 	float: right;
+ }
+.chicama{
+	margin-top: 55px;
+	margin-left: 40px;
+}
+.linea{
+	font-size: 13px;
+	color: black;
+	
